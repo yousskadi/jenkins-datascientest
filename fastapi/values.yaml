@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: fallewi/datascientestapi
+  repository: ykadi/datascientestapi
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
